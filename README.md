@@ -1,7 +1,7 @@
 # Password Generator
 
 ## Product 💻
-https://i.imgur.com/2UPTc5p.png
+<img src="https://i.imgur.com/2UPTc5p.png" />
 
 ## Link 📎
   - [Website](https://akari08-mp4.github.io/password-generator/)
